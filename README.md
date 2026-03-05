@@ -18,6 +18,6 @@ We can implement multiple arithmetic and logical operations using this ALU:
   - Carry, Zero, and Overflow flags
 
 Run Simulation Online:
-https://www.edaplayground.com/x/uiK9
+https://www.edaplayground.com/x/8BQb
 
 Author: Vidisha Vyas
